@@ -142,3 +142,12 @@ a:hover {
     border-radius: 4px;
     align-self: center;
 }
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75px;
+    background: #1f2937;
+    color: white;
+}
