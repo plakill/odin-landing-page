@@ -94,3 +94,24 @@ a:hover {
     border: 2px solid cornflowerblue;
     border-radius: 8px;
 }
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    padding: 50px 500px;
+    background: #e5e7eb;
+    margin-top: 50px;
+    gap: 10px;
+}
+
+.quote p {
+    font-size: 20px;
+    color: #1f2937;
+    font-style: italic;
+}
+
+#quotee {
+    font-weight: bold;
+    font-style: normal;
+    text-align: end;
+}
